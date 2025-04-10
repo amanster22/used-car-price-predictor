@@ -455,7 +455,7 @@ Lexus,IS 250 Base,2011,"107,818 mi.",Gasoline,204.0HP 2.5L V6 Cylinder Engine Ga
 Land,Rover Range Rover Evoque SE Premium,2016,"79,500 mi.",Gasoline,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,9-Speed A/T,White,Black,None reported,Yes,"$19,000"
 Ferrari,California T,2015,"20,000 mi.",Gasoline,553.0HP 3.9L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,Red,Brown,At least 1 accident or damage reported,Yes,"$124,990"
 Lexus,LC 500 Base,2018,"37,000 mi.",Gasoline,471.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,10-Speed A/T,Black,Red,None reported,Yes,"$63,997"
-Kia,EV6 Wind,2022,"11,945 mi.",,111.2Ah / FR 70kW / RR 160kW (697V),Automatic,Glacier,Black,None reported,,"$38,998"
+Kia,EV6 Wind,2022,"11,945 mi.",Electric,111.2Ah / FR 70kW / RR 160kW (697V),Automatic,Glacier,Black,None reported,,"$38,998"
 GMC,Sierra 1500 SLE Crew Cab,2005,"131,800 mi.",Gasoline,295.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,Silver,Gray,At least 1 accident or damage reported,Yes,"$5,800"
 Lexus,ES 350 Base,2008,"146,000 mi.",Gasoline,272.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,Red,Beige,None reported,Yes,"$8,995"
 Nissan,370Z NISMO,2010,"29,000 mi.",Gasoline,350.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,M/T,Silver,–,None reported,Yes,"$29,000"

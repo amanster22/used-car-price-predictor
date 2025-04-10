@@ -1,0 +1,7 @@
+brand,model,model_year,milage,fuel_type,engine,transmission,ext_col,int_col,accident,clean_title,price
+Ford,Mustang Mach-E Select,2023,923 mi.,,Standard Range Battery,Automatic,Rapid Red Metallic Tinted Clearcoat,Black Onyx,None reported,,"$46,998"
+Kia,EV6 Wind,2022,"11,945 mi.",,111.2Ah / FR 70kW / RR 160kW (697V),Automatic,Glacier,Black,None reported,,"$38,998"
+Tesla,Model 3 Long Range,2022,"3,077 mi.",,Dual Motor - Standard,Automatic,Silver,Black,None reported,,"$44,998"
+Tesla,Model Y Long Range,2022,"4,665 mi.",,Dual Motor - Standard,Automatic,Silver,Black,None reported,,"$46,598"
+Tesla,Model Y Long Range,2022,"9,411 mi.",,Dual Motor - Standard,Automatic,Silver,Black,None reported,,"$47,998"
+Volkswagen,ID.4 Pro S,2023,"1,716 mi.",,Battery Electric,Automatic,Gray,Gray w/Blue Bolsters,None reported,,"$39,998"
