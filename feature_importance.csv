@@ -1,0 +1,465 @@
+Feature,Importance
+model_encoded,0.7670733036671554
+engine_encoded,0.195192822112418
+milage_binned,0.015734719573368736
+model_year,0.007260267785026079
+transmission_encoded,0.0029820561884356897
+HP,0.0029675023651791364
+brand_encoded,0.0023199495483624748
+int_col_Black,0.0012879960606068796
+ext_col_Black,0.0006818944803297492
+ext_col_Blue,0.0006349901881933123
+ext_col_White,0.00041041291256507963
+accident_None reported,0.00038525339372947085
+fuel_type_Gasoline,0.0003381675607466708
+ext_col_Gray,0.0003343509824667941
+int_col_Gray,0.00028176242627357147
+clean_title,0.0002710067774888103
+int_col_Beige,0.0002567885755008364
+int_col_White,0.0002327241320969773
+int_col_Brown,0.00018658425907499892
+ext_col_Silver,0.0001743745824146562
+int_col_–,0.00012836083598113344
+ext_col_Red,0.0001251592980420567
+fuel_type_–,0.00010176750348841499
+fuel_type_Hybrid,8.212866411452131e-05
+int_col_Red,7.282945738501715e-05
+int_col_Jet Black,6.367526460320172e-05
+fuel_type_E85 Flex Fuel,5.586768106236379e-05
+fuel_type_Electric,5.463492693724715e-05
+ext_col_Alpine White,5.328789181070335e-05
+ext_col_Green,4.9401219135617716e-05
+ext_col_Brown,3.293671155576576e-05
+accident_Unknown,3.160863416022091e-05
+ext_col_Oxford White,2.8710518684791337e-05
+ext_col_Orange,1.7742859235893255e-05
+ext_col_Midnight Black Metallic,1.335679088095989e-05
+ext_col_Santorini Black Metallic,1.2089685619726094e-05
+ext_col_Beige,9.31208956683799e-06
+int_col_Ebony,8.322815400430293e-06
+ext_col_Gold,8.127570680290611e-06
+int_col_Rioja Red,6.3291915847884634e-06
+ext_col_Daytona Gray Pearl Effect,5.940848147047155e-06
+int_col_Orange,5.567963843115034e-06
+ext_col_Firecracker Red Clearcoat,5.545875434796189e-06
+ext_col_Yellow,5.058611325654056e-06
+ext_col_Bright White Clearcoat,2.789654670602095e-06
+ext_col_Ebony Twilight Metallic,2.3475105743805143e-06
+int_col_Blue,1.8417818241056005e-06
+ext_col_Alfa White,1.1656948694488894e-06
+int_col_Diesel Gray / Black,1.0669877337976073e-06
+ext_col_Snow White Pearl,1.0434876933670657e-06
+int_col_Silver,6.838221418924438e-07
+int_col_Graphite,6.452986209515688e-07
+ext_col_DB Black Clearcoat,6.171078385493621e-07
+ext_col_Metallic,6.136790739158632e-07
+int_col_Titan Black,3.692753903968286e-07
+ext_col_Mythos Black Metallic,3.450984337877298e-07
+ext_col_Summit White,3.1614894585235e-07
+ext_col_Diamond Black,2.470162438355749e-07
+ext_col_Granite Crystal Clearcoat Metallic,1.9573040343799465e-07
+int_col_Charcoal,1.8766428641135357e-07
+int_col_Canberra Beige,1.5801910172686335e-07
+ext_col_Phytonic Blue Metallic,1.26874833942407e-07
+int_col_Global Black,1.2240048351349481e-07
+ext_col_Daytona Gray,1.09257272277804e-07
+ext_col_Velvet Red Pearlcoat,9.551756058540852e-08
+ext_col_Chalk,6.20223646544409e-08
+ext_col_Pacific Blue Metallic,5.4043875374658304e-08
+ext_col_Dark Moon Blue Metallic,4.3334768937528296e-08
+ext_col_Soul Red Crystal Metallic,3.3136190419906155e-08
+ext_col_Purple,2.164033270593253e-08
+ext_col_Glacial White Pearl,7.3143571729041595e-09
+ext_col_Silver Flare Metallic,0.0
+int_col_BLACK,0.0
+int_col_BEIGE,0.0
+int_col_Ash,0.0
+ext_col_Arctic Gray Metallic,0.0
+int_col_Anthracite,0.0
+int_col_Amber,0.0
+int_col_Almond Beige,0.0
+int_col_Agave Green,0.0
+int_col_Adrenaline Red,0.0
+ext_col_–,0.0
+int_col_Aragon Brown,0.0
+int_col_Black / Graphite,0.0
+ext_col_Silky Silver,0.0
+int_col_Black/Saddle Brown,0.0
+int_col_Carbon Black,0.0
+int_col_Caramel,0.0
+int_col_Cappuccino,0.0
+int_col_Canberra Beige/Black,0.0
+int_col_Camel Leather,0.0
+int_col_Camel,0.0
+ext_col_Antimatter Blue Metallic,0.0
+int_col_Boulder,0.0
+int_col_Blk,0.0
+int_col_Black/Red,0.0
+int_col_Beluga Hide,0.0
+int_col_Black/Gun Metal,0.0
+int_col_Black/Graphite,0.0
+int_col_Black w/Red Stitching,0.0
+int_col_Black Onyx,0.0
+int_col_Black / Stone Grey,0.0
+int_col_Black / Saddle,0.0
+int_col_Black / Gray,0.0
+int_col_Black / Express Red,0.0
+ext_col_Apex Blue,0.0
+ext_col_designo Diamond White Metallic,0.0
+ext_col_White Knuckle Clearcoat,0.0
+ext_col_designo Diamond White Bright,0.0
+ext_col_Stellar Black Metallic,0.0
+ext_col_Thunder Gray,0.0
+ext_col_Tango Red Metallic,0.0
+ext_col_Tan,0.0
+ext_col_Super White,0.0
+ext_col_Super Black,0.0
+ext_col_Sunset Drift Chromaflair,0.0
+ext_col_Stormy Sea,0.0
+ext_col_Stone Gray Metallic,0.0
+ext_col_Sting Gray Clearcoat,0.0
+ext_col_Star White,0.0
+ext_col_Tungsten Metallic,0.0
+ext_col_Sparkling Silver,0.0
+ext_col_Sonic Silver Metallic,0.0
+ext_col_Snowflake White Pearl Metallic,0.0
+ext_col_Snowflake White Pearl,0.0
+ext_col_Siren Red Tintcoat,0.0
+ext_col_Silver Zynith,0.0
+ext_col_Silver Radiance,0.0
+ext_col_Atomic Silver,0.0
+ext_col_Silver Mist,0.0
+ext_col_Titanium Silver,0.0
+ext_col_Twilight Black,0.0
+ext_col_designo Diamond White,0.0
+ext_col_Arctic White,0.0
+ext_col_Yulong White,0.0
+ext_col_Yulong,0.0
+ext_col_Wolf Gray,0.0
+ext_col_Wind Chill Pearl,0.0
+ext_col_White Platinum Tri-Coat Metallic,0.0
+ext_col_Silver Ice Metallic,0.0
+ext_col_White Frost Tri-Coat,0.0
+ext_col_White Diamond Tri-Coat,0.0
+ext_col_White Clearcoat,0.0
+ext_col_Vulcano Black Metallic,0.0
+ext_col_Twilight Blue Metallic,0.0
+ext_col_Volcano Grey Metallic,0.0
+ext_col_Volcanic Orange,0.0
+ext_col_Vik Black,0.0
+ext_col_Verde,0.0
+ext_col_Vega Blue,0.0
+ext_col_Ultra White,0.0
+ext_col_Ultra Black,0.0
+ext_col_Typhoon Gray Metallic,0.0
+ext_col_Typhoon Gray,0.0
+int_col_Ceramic,0.0
+int_col_Deep Chestnut,0.0
+int_col_Charcoal Black,0.0
+int_col_Pimento Red w/Ebony,0.0
+int_col_Saiga Beige,0.0
+int_col_Sahara Tan,0.0
+int_col_Saddle Brown,0.0
+int_col_Rock Gray,0.0
+int_col_Roast,0.0
+int_col_Rhapsody Blue,0.0
+int_col_Red/Black,0.0
+int_col_Red / Black,0.0
+ext_col_Ametrin Metallic,0.0
+int_col_Platinum,0.0
+int_col_Pimento / Ebony,0.0
+int_col_Sakhir Orange/Black,0.0
+int_col_Pearl Beige,0.0
+int_col_Parchment.,0.0
+int_col_Parchment,0.0
+int_col_Oyster/Black,0.0
+int_col_Oyster W/Contrast,0.0
+int_col_Orchid,0.0
+int_col_Obsidian Black,0.0
+int_col_ORANGE,0.0
+int_col_Nougat Brown,0.0
+int_col_Nero Ade,0.0
+int_col_Sakhir Orange,0.0
+int_col_Sand Beige,0.0
+int_col_Chateau,0.0
+int_col_Tension,0.0
+fuel_type_not supported,0.0
+int_col_Yellow,0.0
+int_col_White / Brown,0.0
+ext_col_Alta White,0.0
+int_col_Whisper Beige,0.0
+int_col_Walnut,0.0
+int_col_WHITE,0.0
+int_col_Very Light Cashmere,0.0
+int_col_Tupelo,0.0
+int_col_Titan Black / Quarzit,0.0
+int_col_Tan/Ebony/Ebony,0.0
+int_col_Sandstone,0.0
+int_col_Tan/Ebony,0.0
+int_col_Tan,0.0
+int_col_Sport,0.0
+int_col_Slate,0.0
+int_col_Silk Beige/Espresso Brown,0.0
+int_col_Silk Beige/Black,0.0
+int_col_Shara Beige,0.0
+int_col_Shale,0.0
+int_col_Satin Black,0.0
+int_col_Sarder Brown,0.0
+int_col_Nero,0.0
+int_col_Navy Pier,0.0
+int_col_Mountain Brown,0.0
+int_col_Ebony / Ebony Accents,0.0
+int_col_Gray w/Blue Bolsters,0.0
+ext_col_Anthracite Blue Metallic,0.0
+int_col_Graphite w/Gun Metal,0.0
+int_col_Gold,0.0
+int_col_Gideon,0.0
+int_col_Espresso,0.0
+int_col_Ebony/Light Oyster Stitch,0.0
+int_col_Ebony.,0.0
+int_col_Ebony Black,0.0
+int_col_Ebony / Pimento,0.0
+int_col_Deep Garnet,0.0
+int_col_Mocha,0.0
+int_col_Deep Cypress,0.0
+ext_col_Shoreline Blue Pearl,0.0
+int_col_Dark Gray,0.0
+int_col_Dark Galvanized,0.0
+int_col_Dark Auburn,0.0
+int_col_Dark Ash,0.0
+int_col_Cocoa / Dune,0.0
+int_col_Cloud,0.0
+int_col_Classic Red,0.0
+int_col_Chestnut,0.0
+int_col_Graystone,0.0
+int_col_Green,0.0
+int_col_Hotspur,0.0
+int_col_Hotspur Hide,0.0
+int_col_Mistral Gray / Raven,0.0
+int_col_Mesa,0.0
+int_col_Medium Stone,0.0
+int_col_Medium Pewter,0.0
+int_col_Medium Light Camel,0.0
+int_col_Medium Earth Gray,0.0
+int_col_Medium Dark Slate,0.0
+int_col_Medium Ash Gray,0.0
+int_col_Magma Red,0.0
+int_col_Macchiato/Magmagrey,0.0
+int_col_Macchiato Beige/Black,0.0
+int_col_Macchiato,0.0
+int_col_Linen,0.0
+int_col_Light Titanium,0.0
+int_col_Light Slate,0.0
+int_col_Light Platinum / Jet Black,0.0
+int_col_Light Gray,0.0
+int_col_Kyalami Orange,0.0
+ext_col_Anodized Blue Metallic,0.0
+int_col_Ivory / Ebony,0.0
+int_col_Ice,0.0
+ext_col_Silician Yellow,0.0
+ext_col_Sangria Red,0.0
+ext_col_Shimmering Silver,0.0
+ext_col_Emerald Green Metallic,0.0
+ext_col_Fuji White,0.0
+ext_col_Frozen White,0.0
+ext_col_Frozen Dark Silver Metallic,0.0
+ext_col_Fountain Blue,0.0
+ext_col_Florett Silver,0.0
+ext_col_Flame Red Clearcoat,0.0
+ext_col_Firenze Red Metallic,0.0
+ext_col_Firenze Red,0.0
+ext_col_Eminent White Pearl,0.0
+ext_col_Emin White,0.0
+ext_col_Ember Pearlcoat,0.0
+ext_col_Garnet Red Metallic,0.0
+ext_col_Electric Blue Metallic,0.0
+ext_col_Eiger Grey Metallic,0.0
+ext_col_Eiger Grey,0.0
+ext_col_Ebony Black,0.0
+ext_col_Donington Grey Metallic,0.0
+ext_col_Diamond White,0.0
+ext_col_Designo Magno Matte,0.0
+ext_col_Delmonico Red Pearlcoat,0.0
+ext_col_Deep Crystal Blue Mica,0.0
+ext_col_Deep Blue Metallic,0.0
+ext_col_GT SILVER,0.0
+ext_col_Gecko Pearlcoat,0.0
+ext_col_Infrared Tintcoat,0.0
+ext_col_Gun Metallic,0.0
+ext_col_Imperial Blue Metallic,0.0
+ext_col_Iconic Silver Metallic,0.0
+ext_col_Ice Silver Metallic,0.0
+ext_col_Ice,0.0
+ext_col_Ibis White,0.0
+ext_col_Hyper Red,0.0
+ext_col_Hydro Blue Pearlcoat,0.0
+ext_col_Horizon Blue,0.0
+ext_col_Hellayella Clearcoat,0.0
+ext_col_Hampton Gray,0.0
+ext_col_BLACK,0.0
+ext_col_Gentian Blue Metallic,0.0
+ext_col_BLUE,0.0
+ext_col_Graphite Grey Metallic,0.0
+ext_col_Graphite Grey,0.0
+ext_col_Granite Crystal Metallic Clearcoat,0.0
+ext_col_Go Mango!,0.0
+ext_col_Glacier White Metallic,0.0
+ext_col_Glacier White,0.0
+ext_col_Glacier Silver Metallic,0.0
+ext_col_Glacier Blue Metallic,0.0
+ext_col_Glacier,0.0
+ext_col_Deep Black Pearl Effect,0.0
+ext_col_Dazzling White,0.0
+ext_col_Daytona Gray Pearl Effect w/ Black Roof,0.0
+ext_col_Barcelona Red,0.0
+ext_col_Burnished Bronze Metallic,0.0
+ext_col_Baltic Gray,0.0
+ext_col_Bronze Dune Metallic,0.0
+ext_col_Brilliant Silver Metallic,0.0
+ext_col_Brilliant Black,0.0
+ext_col_Brands Hatch Gray Metallic,0.0
+ext_col_Blueprint,0.0
+ext_col_Blue Reflex Mica,0.0
+ext_col_Blue Metallic,0.0
+ext_col_Blue Caelum,0.0
+ext_col_Blu,0.0
+ext_col_Dark Slate Metallic,0.0
+ext_col_Black Sapphire Metallic,0.0
+ext_col_Black Raven,0.0
+ext_col_Black Obsidian,0.0
+ext_col_Black Noir Pearl,0.0
+ext_col_Black Forest Green,0.0
+ext_col_Black Clearcoat,0.0
+ext_col_Black Cherry,0.0
+ext_col_Bayside Blue,0.0
+ext_col_Billet Silver Metallic Clearcoat,0.0
+ext_col_Billet Clearcoat Metallic,0.0
+ext_col_Cajun Red Tintcoat,0.0
+ext_col_Carbon Black Metallic,0.0
+ext_col_Carbonized Gray Metallic,0.0
+ext_col_Carpathian Grey,0.0
+ext_col_Dark Sapphire,0.0
+ext_col_Dark Moss,0.0
+ext_col_Dark Matter Metallic,0.0
+ext_col_Dark Gray Metallic,0.0
+ext_col_Dark Graphite Metallic,0.0
+ext_col_Dark Ash Metallic,0.0
+ext_col_Custom Color,0.0
+ext_col_Crystal White Pearl,0.0
+ext_col_Crystal Black Silica,0.0
+ext_col_Crystal Black Pearl,0.0
+ext_col_Crystal Black,0.0
+ext_col_Crimson Red Tintcoat,0.0
+ext_col_Cobra Beige Metallic,0.0
+ext_col_Cirrus Silver Metallic,0.0
+ext_col_Chronos Gray Metallic,0.0
+ext_col_Chronos Gray,0.0
+ext_col_Cayenne Red Tintcoat,0.0
+ext_col_Caviar,0.0
+ext_col_Caspian Blue,0.0
+ext_col_Carrara White Metallic,0.0
+ext_col_Carpathian Grey Premium Metallic,0.0
+ext_col_Indus Silver,0.0
+ext_col_Ingot Silver Metallic,0.0
+ext_col_Shadow Gray Metallic,0.0
+ext_col_Platinum Gray Metallic,0.0
+ext_col_Quartzite Grey Metallic,0.0
+ext_col_Quartz White,0.0
+ext_col_Quartz Blue Pearl,0.0
+ext_col_Pure White,0.0
+ext_col_Pristine White,0.0
+ext_col_Portofino Gray,0.0
+ext_col_Portofino Blue Metallic,0.0
+ext_col_Polymetal Gray Metallic,0.0
+ext_col_Platinum White Pearl,0.0
+ext_col_Platinum Quartz Metallic,0.0
+ext_col_Pink,0.0
+ext_col_Radiant Red Metallic II,0.0
+ext_col_Phantom Black Pearl Effect / Black Roof,0.0
+ext_col_Phantom Black,0.0
+ext_col_Pearl White,0.0
+ext_col_Patriot Blue Pearlcoat,0.0
+ext_col_Passion Red,0.0
+ext_col_Pacific Blue,0.0
+ext_col_Oryx White Prl,0.0
+ext_col_Orca Black Metallic,0.0
+ext_col_Onyx Black,0.0
+ext_col_Octane Red Pearlcoat,0.0
+ext_col_Quicksilver Metallic,0.0
+ext_col_Aventurine Green Metallic,0.0
+ext_col_Iridescent Pearl Tricoat,0.0
+ext_col_Ruby Flare Pearl,0.0
+ext_col_Shadow Black,0.0
+ext_col_Selenite Grey Metallic,0.0
+ext_col_Selenite Gray Metallic,0.0
+ext_col_Scarlet Ember,0.0
+ext_col_Satin Steel Metallic,0.0
+ext_col_Santorini Black,0.0
+ext_col_Santorin Black,0.0
+ext_col_Beluga Black,0.0
+ext_col_Sandstone Metallic,0.0
+ext_col_Ruby Red Metallic Tinted Clearcoat,0.0
+ext_col_Rosso Mars Metallic,0.0
+ext_col_Aurora Black,0.0
+ext_col_Rosso Corsa,0.0
+ext_col_Rosso,0.0
+ext_col_Rift Metallic,0.0
+ext_col_Rich Garnet Metallic,0.0
+ext_col_Remington Red Metallic,0.0
+ext_col_Reflex Silver,0.0
+ext_col_Redline Red,0.0
+ext_col_Red Quartz Tintcoat,0.0
+ext_col_Red Obsession,0.0
+ext_col_Red Multi,0.0
+ext_col_Obsidian Black Metallic,0.0
+ext_col_Obsidian,0.0
+ext_col_Northsky Blue Metallic,0.0
+ext_col_Lizard Green,0.0
+ext_col_Magnetic Metallic,0.0
+ext_col_Magnetic Gray Metallic,0.0
+ext_col_Magnetic Gray Clearcoat,0.0
+ext_col_Magnetic Black,0.0
+ext_col_Machine Gray Metallic,0.0
+ext_col_MANUFAKTUR Diamond White Bright,0.0
+ext_col_Lunare White Metallic,0.0
+ext_col_Lunar Silver Metallic,0.0
+ext_col_Lunar Rock,0.0
+ext_col_Lunar Blue Metallic,0.0
+ext_col_Liquid Platinum,0.0
+ext_col_Nightfall Mica,0.0
+ext_col_Kodiak Brown Metallic,0.0
+ext_col_Kinetic Blue,0.0
+ext_col_Kemora Gray Metallic,0.0
+ext_col_Jupiter Red,0.0
+ext_col_Jungle Green,0.0
+ext_col_Jet Black Mica,0.0
+ext_col_Isle of Man Green Metallic,0.0
+ext_col_Ironman Silver,0.0
+ext_col_Iridium Silver Metallic,0.0
+ext_col_Iridium Metallic,0.0
+ext_col_Magnetite Black Metallic,0.0
+ext_col_Magnetite Gray Metallic,0.0
+ext_col_Majestic Black Pearl,0.0
+ext_col_Majestic Plum Metallic,0.0
+ext_col_Nightfall Gray Metallic,0.0
+ext_col_Nero Daytona,0.0
+ext_col_Nebula Gray Pearl,0.0
+ext_col_Navarre Blue,0.0
+ext_col_Navarra Blue Metallic,0.0
+ext_col_Navarra Blue,0.0
+ext_col_Nautical Blue Pearl,0.0
+ext_col_Mythos Black,0.0
+ext_col_Mountain Air Metallic,0.0
+ext_col_Mosaic Black Metallic,0.0
+ext_col_Moonlight Cloud,0.0
+ext_col_Mineral White,0.0
+ext_col_Midnight Silver Metallic,0.0
+ext_col_Midnight Blue Metallic,0.0
+ext_col_Midnight Black,0.0
+ext_col_Maximum Steel Metallic,0.0
+ext_col_Matador Red Mica,0.0
+ext_col_Matador Red Metallic,0.0
+ext_col_Maroon,0.0
+ext_col_Manhattan Noir Metallic,0.0
+ext_col_Mango Tango Pearlcoat,0.0
+ext_col_Rapid Red Metallic Tinted Clearcoat,0.0
